@@ -10,3 +10,8 @@ install.packages(c("httr",
                     "stringr",
                     "DT",
                     "dplyr"))
+
+library(devtools)
+install_github("iobis/robis")
+install_github("iobis/obistools")
+install_github("ropensci/finch")
