@@ -1,0 +1,12 @@
+install.packages(c("httr",
+                    "devtools",
+                    "obistools",
+                    "robis",
+                    "rnaturalearthdata",
+                    "rnaturalearth",
+                    "leaflet",
+                    "ggplot2",
+                    "sf",
+                    "stringr",
+                    "DT",
+                    "dplyr"))
